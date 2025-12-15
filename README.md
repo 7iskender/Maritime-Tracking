@@ -1,2 +1,2 @@
 # Maritime-Tracking
-a real-time maritime tracking web app using WebSockets and AIS data.
+A real-time maritime vessel tracking web application that visualizes live AIS position data using WebSockets and interactive maps.
